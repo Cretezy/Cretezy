@@ -10,6 +10,7 @@ Most recent blog posts:
 - [Flutter JSON parsing: What is the fastest?](https://cretezy.com/2020/flutter-fast-json)
 
 Most recent videos:
+- [Svelte For React Developers](https://youtu.be/smqE0y0z0CA)
 - [Neovim With AstroNvim | Your New Advanced Development Editor](https://youtu.be/GEHPiZ10gOk)
 
 Other recent projects:
