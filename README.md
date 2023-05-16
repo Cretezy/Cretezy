@@ -10,8 +10,7 @@ Most recent blog posts:
 - [Flutter JSON parsing: What is the fastest?](https://cretezy.com/2020/flutter-fast-json)
 
 Most recent videos:
+- [5 Neovim Plugins To Improve Your Productivity]([5 Neovim Plugins To Improve Your Productivity](https://youtu.be/NJDu_53T_4M))
+- [What is Home Assistant? The Ultimate Smart Home Guide](https://youtu.be/WDTphMwZc64)
 - [Svelte For React Developers](https://youtu.be/smqE0y0z0CA)
 - [Neovim With AstroNvim | Your New Advanced Development Editor](https://youtu.be/GEHPiZ10gOk)
-
-Other recent projects:
-- [MagnetBox](https://cretezy.itch.io/magnetbox): Game jam submission
