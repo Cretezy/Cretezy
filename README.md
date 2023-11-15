@@ -13,6 +13,7 @@ Most recent blog posts:
 ---
 
 Most recent videos:
+- [Move Ten Times Faster in Neovim with Leap](https://youtu.be/d2GvyXXlNa0)
 - [5 Neovim Plugins To Improve Your Productivity](https://youtu.be/NJDu_53T_4M)
 - [What is Home Assistant? The Ultimate Smart Home Guide](https://youtu.be/WDTphMwZc64)
 - [Svelte For React Developers](https://youtu.be/smqE0y0z0CA)
